@@ -1,0 +1,5 @@
+CSS color: #FFFFF0
+Warlight player color: #FEFF9B
+JIS: #DED2BF
+#F5F0DC
+#F3F0E0
